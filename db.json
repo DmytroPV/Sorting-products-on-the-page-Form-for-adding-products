@@ -1,0 +1,227 @@
+{
+  "products": [
+    {
+      "id": "prod0",
+      "type": "взуття",
+      "category": "кросівки",
+      "season": "осінь",
+      "sex": "чоловік",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://image.jimcdn.com/app/cms/image/transf/divimension=682x2048:format=jpg/path/sebd3a6cf3ac46dc1/image/ie2454858c0490df1/version/1533590724/image.jpg",
+      "href": "https://answear.ua/p/armani-exchange-kedy-185704"
+    },
+    {
+      "id": "prod1",
+      "type": "взуття",
+      "category": "черевики",
+      "season": "осінь",
+      "sex": "чоловік",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://image.jimcdn.com/app/cms/image/transf/divimension=682x2048:format=jpg/path/sebd3a6cf3ac46dc1/image/ie2260c2937e8f65c/version/1533590730/image.jpg",
+      "href": "https://estro.ua/uk/product/er00105993"
+    },
+    {
+      "id": "prod2",
+      "type": "взуття",
+      "category": "чоботи",
+      "season": "осінь",
+      "sex": "жінка",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://image.jimcdn.com/app/cms/image/transf/divimension=682x2048:format=jpg/path/sebd3a6cf3ac46dc1/image/i9c32bd736e14151c/version/1533590742/image.jpg",
+      "href": "https://welfare.ua/ua/female-shoes/high-boots/22-2550823-002-black-antic"
+    },
+    {
+      "id": "prod3",
+      "type": "взуття",
+      "category": "кросівки",
+      "season": "літо",
+      "sex": "чоловік",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://image.jimcdn.com/app/cms/image/transf/divimension=682x2048:format=jpg/path/sebd3a6cf3ac46dc1/image/iee7cfc8fa75b73ec/version/1533679266/image.jpg",
+      "href": "https://soccerpoint.com.ua/kedy-converse-chuck-taylor-all-star-132173c-16925/"
+    },
+    {
+      "id": "prod4",
+      "type": "взуття",
+      "category": "босоніжки",
+      "season": "літо",
+      "sex": "жінка",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://image.jimcdn.com/app/cms/image/transf/divimension=1920x400:format=jpg/path/sebd3a6cf3ac46dc1/image/ia7efa55598fbc522/version/1573989877/image.jpg",
+      "href": "https://fmf.com.ua/anatomichni-sandali-foot-care-fa-107-r-36-sini/mfp/61-rozm-r,30,36,37,41,42"
+    },
+    {
+      "id": "prod5",
+      "type": "взуття",
+      "category": "туфлі",
+      "season": "осінь",
+      "sex": "чоловік",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.}",
+      "img": "https://image.jimcdn.com/app/cms/image/transf/divimension=682x2048:format=jpg/path/sebd3a6cf3ac46dc1/image/ie5f60cbe8f927fac/version/1533590730/image.jpg",
+      "href": "https://bott.com.ua/p769483419-krossovki-kozhanye-zhenskie.html"
+    },
+    {
+      "id": "prod6",
+      "type": "одяг",
+      "category": "куртка",
+      "season": "зима",
+      "sex": "чоловік",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/201488685.jpg",
+      "href": "https://freever.ua/man/kurtki/kurtka-muzhskaya-zimnyaya-j8865-sinyaya?gclid=CjwKCAjwur-SBhB6EiwA5sKtjiNx3lKdm9IWquIKJ2auO38s294pmSttqOpZy7G9N4Cky4EDpggE7xoCiQAQAvD_BwE"
+    },
+    {
+      "id": "prod7",
+      "type": "одяг",
+      "category": "куртка",
+      "season": "зима",
+      "sex": "жінка",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://img.joomcdn.net/9a4663302a4a3fdef9b17e70223531af751a228e_original.jpeg",
+      "href": "https://www.joom.com/uk/products/5f817c1922e9f00106c5046c"
+    },
+    {
+      "id": "prod8",
+      "type": "одяг",
+      "category": "джинси",
+      "season": "літо",
+      "sex": "чоловік",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://static.staff-clothes.com/uploads/media/image_product/0002/42/d6c3df74d3174ffebbe944666e959343.jpeg",
+      "href": "https://www.staff-clothes.com/ua/dzhinsy-staff-all-c2/ffk0290/?utm_source=googleua&utm_source=googleua&utm_medium=cpa&utm_campaign=tovarka_high&utm_content=&utm_term=&target=&placement=&creative=342682437281&network=u&gclid=CjwKCAjwur-SBhB6EiwA5sKtjjI6fqPJx-f8CNEAt2xbqTcn0N4cb7JmDHK9Q1imUG-WjfFIY3-rLxoCoFkQAvD_BwE"
+    },
+    {
+      "id": "prod9",
+      "type": "одяг",
+      "category": "футболка",
+      "season": "літо",
+      "sex": "чоловік",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://zorrov.com/uploads/products/2021/08/product/161741/6124c813eb99a.jpg",
+      "href": "https://zorrov.com/product/futbolka-muzhskaia-chernaia-khlopok-elastan-samurai-l?gclid=CjwKCAjwur-SBhB6EiwA5sKtjg2I0umxfKt8N9EWAAipr7in0CBdh9RP5WaZVOriQISpJ3DMnQtJtRoCPcgQAvD_BwE"
+    },
+    {
+      "id": "prod10",
+      "type": "одяг",
+      "category": "костюм",
+      "season": "літо",
+      "sex": "хлопчик",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://images.prom.ua/2489516917_w100_h100_detskij-sportivnyj-kostyum.jpg",
+      "href": "https://polinline.com.ua/p1217953761-detskij-sportivnyj-kostyum.html"
+    },
+    {
+      "id": "prod11",
+      "type": "одяг",
+      "category": "шорти",
+      "season": "літо",
+      "sex": "чоловік",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://megasport.ua/ua/image/products/12_20211_586196_01_1_1625522673-6034ed8.jpg",
+      "href": "https://megasport.ua/ru/product/modern-sports-shorts_586196-01/?gclid=CjwKCAjwur-SBhB6EiwA5sKtjs84rxYKOVl-Gbgs3e83WCwq56fmbhC9G6AOjDdwgzmm_sot6xyhKhoC0_EQAvD_BwE"
+    },
+    {
+      "id": "prod12",
+      "type": "одяг",
+      "category": "куртка",
+      "season": "весна",
+      "sex": "чоловік",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://freever.ua/image/cache/catalog/products/7595/a-7595-3-0-800x1200.jpg",
+      "href": "https://freever.ua/man/kurtki/kurtka-muzhskaya-demisezonnaya-j7595-sinyaya?gclid=CjwKCAjw7IeUBhBbEiwADhiEMUewNeUj5dJFrC5YeHPHFI5cuiPPJUxIC5pzhfowupKf3JHeZ6cpvRoCqNwQAvD_BwE"
+    },
+    {
+      "id": "prod13",
+      "type": "одяг",
+      "category": "куртка",
+      "season": "осінь",
+      "sex": "жінка",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://freever.ua/image/cache/catalog/products/21717/21717-3-0-800x1200.jpg",
+      "href": "https://freever.ua/woman/kurtky/kurtka-zhenskaya-freever-windstopper-wf-21717-sinyaya?gclid=CjwKCAjw7IeUBhBbEiwADhiEMXraDO50WiUrXQ5wN8fJ9yRotWSE43kK_9Ih1WKX0CqwwGWKz8KTlBoCkV4QAvD_BwE"
+    },
+    {
+      "id": "prod14",
+      "type": "одяг",
+      "category": "куртка",
+      "season": "зима",
+      "sex": "дівчинка",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://suzie.ua/storage/products/images/big/NIZwJdmubvKeeGPEyOni3iFSGHN1Ge1iktsveTt1.jpg.webp",
+      "href": "https://suzie.ua/catalog/kurtka-dzheyrri-1/p1231?utm_source=google&utm_medium=cpc&utm_campaign=Smart_Shopping_Ukraine_Copy&utm_content={adgroupname}&utm_term=&gclid=CjwKCAjw7IeUBhBbEiwADhiEMW3ddSgawpf2BUzXLNbSTi3uyQ2EumoBMthJxzU1lWXMxqgW_55quxoCTcoQAvD_BwE"
+    },
+    {
+      "id": "prod15",
+      "type": "одяг",
+      "category": "джинси",
+      "season": "літо",
+      "sex": "чоловік",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://freever.ua/image/cache/catalog/products/437/437-7-800x1200.jpg",
+      "href": "https://freever.ua/man/dzhinsy-muzhskie-freever-gf-437?gclid=CjwKCAjw7IeUBhBbEiwADhiEMZi8IBBy03-3U3twh_LMEf6n0-NaA5z_fUvVL8Cq3GZeStsNh12jjBoCUhoQAvD_BwE"
+    },
+    {
+      "id": "prod16",
+      "type": "одяг",
+      "category": "джинси",
+      "season": "осінь",
+      "sex": "жінка",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://img.joomcdn.net/a7f7121577a1926bc5d23c613ba956c15110f644_original.jpeg",
+      "href": "https://www.joom.com/uk/products/5f9b8a0231f53b01060cceff"
+    },
+    {
+      "id": "prod17",
+      "type": "одяг",
+      "category": "джинси",
+      "season": "літо",
+      "sex": "дівчинка",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://static.insalescdn.com/r/46XWRZc5d7I/rs:fit:1000:0:1/plain/images/products/1/3732/526380692/2812200102.jpg@webp",
+      "href": "https://zironka.ua/product/dzhinsi-slouchi-persikovogo-koloru-dlya-divchinki-art-2812200102?variant_id=497347613&lang=ru&utm_source=google_ads&utm_medium=shoping&utm_campaign=smart_shopping&gclid=CjwKCAjw7IeUBhBbEiwADhiEMeXn46V4wQaZuVs-ENFufroIT7zGvM1_6LSKdC8qgcFcSYXX2_foQhoC6rUQAvD_BwE"
+    },
+    {
+      "id": "prod18",
+      "type": "одяг",
+      "category": "джинси",
+      "season": "літо",
+      "sex": "хлопчик",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/44/7e2c8c42a77b4f6d85f2d11fc518ca18.jpeg",
+      "href": "https://www.staff-clothes.com/dzhinsy-staff-mo-c2/ffk0294/?utm_source=googleru&utm_source=googleru&utm_medium=cpa&utm_campaign=smart_rus80&utm_content=&utm_term=&target=&placement=&creative=532554628290&network=u&gclid=CjwKCAjw7IeUBhBbEiwADhiEMaa7DOXYl_t_XCFtCiUGwsZR5rMy4MEgY_51zRgP1fyVCdyMFMfpRxoCSnMQAvD_BwE"
+    },
+    {
+      "type": "взуття",
+      "category": "кеди",
+      "season": "літо",
+      "sex": "жінка",
+      "description": "LaModa (Ламода), торгующий изделиями самых разных производителей и торговых марок является одним из крупнейших и популярных в Украине. Кроме обуви здесь можно купить одежду, кожгалантерею и всевозможные аксессуары.",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/165909149.jpg",
+      "href": "https://rozetka.com.ua/ua/kento_k2000000138824/p282178848/?gclid=Cj0KCQjwm6KUBhC3ARIsACIwxBh84eN2KCkr_RSib2yAPCgCEeAEDv5wxyUsdsmJDxXM2LMQONtDVC0aAq4YEALw_wcB",
+      "id": "nQk0iCd"
+    },
+    {
+      "type": "одяг",
+      "season": "осінь",
+      "sex": "чоловік",
+      "category": "жилетка",
+      "img": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/41/0d74049a693f4f0cabcde93636bb002a.jpeg",
+      "href": "https://www.staff-clothes.com/zhiletka-staff-cli-grafit/mbm0130/?utm_source=googleru&utm_source=googleru&utm_medium=cpa&utm_campaign=smart_rus80&utm_content=&utm_term=&target=&placement=&creative=532554628290&network=u&gclid=Cj0KCQjwm6KUBhC3ARIsACIwxBgjbkCxxpJ9nBRpXcCymvSO8CZRdrNweLk8Kw3RruT8IgSgz_sB9lAaAuo0EALw_wcB",
+      "description": "Универсальная и стильная жилетка защитит от холода благодаря мягкому утеплителю и удачно дополнит любой твой образ.\n\nМатериал:\n- 100% полиэстер;\n- внутри высококачественный утеплитель Hollowsoft.\n\nДетали и крой:\n- воротник-стойка;\n- качественная фурнитура снаружи дополнена ветрозащитной планкой на кнопках;\n- два внешних кармана на кнопках;\n- два внутренних кармана для телефона и кошелька: слева - горизонтальный, справа - вертикальный, оба кармана закрываются на молнии;\n- качественная нашивка Staff Original сзади на спине.\n",
+      "id": "IAOhYwm"
+    },
+    {
+      "type": "взуття",
+      "season": "літо",
+      "sex": "жінка",
+      "category": "сандалі",
+      "img": "https://megasport.ua/ua/image/products/23_20211_82429_25453_1_1620252890-71ae080.jpg",
+      "href": "https://rozetka.com.ua/ua/kento_k2000000138824/p282178848/?gclid=Cj0KCQjwm6KUBhC3ARIsACIwxBh84eN2KCkr_RSib2yAPCgCEeAEDv5wxyUsdsmJDxXM2LMQONtDVC0aAq4YEALw_wcB",
+      "description": "werfwrf",
+      "name": "Johndf",
+      "phone": "+38(093)3333333",
+      "email": "otvin@gmail.com",
+      "id": "RD3-PBL"
+    }
+  ]
+}

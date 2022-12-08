@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home work 23.03.2022 sorting goods</title>
+    <link rel="stylesheet" href="./style_css.css">
+</head>
+
+<body>
+    <div class="menu">
+        <div class="menuButton">
+            <input type="text" name="name by sort" id="inp" class="pole"></input>
+            <br>
+            <button class="sc" id="btnSelect" onclick="sort()">Select</button>
+            <button class="sc" id="btnClear" onclick="clearList()">Сlear all</button>
+            <button class="sc" id="allProds">All prod.s</button>
+        </div>
+        <nav>
+            <ul class="menuProd">
+                <li class="accordion" id="type">ТИП ТОВАРУ
+                    <ul class="content show">
+                        <li class="name_Prods" data-name="взуття">взуття</li>
+                        <li class="name_Prods" data-name="одяг">одяг</li>
+                    </ul>
+                </li>
+                <li class="accordion" id="category">КАТЕГОРІЇ ТОВАРУ
+                    <ul class="content show">
+                        <li class="name_Prods" data-name="босоніжки">босоніжки</li>
+                        <li class="name_Prods" data-name="джинси">джинси</li>
+                        <li class="name_Prods" data-name="куртка">куртка</li>
+                        <li class="name_Prods" data-name="костюм">костюм спорт</li>
+                        <li class="name_Prods" data-name="кросівки">кросівки</li>
+                        <li class="name_Prods" data-name="туфлі">туфлі</li>
+                        <li class="name_Prods" data-name="черевики">черевики</li>
+                        <li class="name_Prods" data-name="чоботи">чоботи</li>
+                        <li class="name_Prods" data-name="футболка">футболка</li>
+                        <li class="name_Prods" data-name="шорти">шорти</li>
+                    </ul>
+                </li>
+                <li class="accordion" id="season">СЕЗОНИ
+                    <ul class="content show">
+                        <li class="name_Prods" data-name="літо">літо</li>
+                        <li class="name_Prods" data-name="осінь">осінь</li>
+                        <li class="name_Prods" data-name="зима">зима</li>
+                        <li class="name_Prods" data-name="весна">весна</li>
+                    </ul>
+                </li>
+                <li class="accordion" id="sex">СТАТЬ
+                    <ul class="content show">
+                        <li class="name_Prods" data-name="жінка">жінка</li>
+                        <li class="name_Prods" data-name="чоловік">чоловік</li>
+                        <li class="name_Prods" data-name="дівчинка">дівчинка</li>
+                        <li class="name_Prods" data-name="хлопчик">хлопчик</li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+        <button class="addStart" id="addStart" onclick="openFormModal()">Додати товари</button>
+    </div>
+    <br>
+    <div class="goods" id="lot">
+        <ul id="lot1">
+        </ul>
+    </div>
+    <div class="bacModal">
+        <div class="boxModal" id="boxModal">
+            <form id="myForm">
+                <p class="inputModal"><label>Тип: </label>
+                    <select name="type" id="">
+                        <option name="type" id="radioModalShoes" value="взуття">взуття</option>
+                        <option name="type" id="radioModalClothes" value="одяг">одяг</option>
+                    </select>
+                </p>
+                <p class="inputModal"><label>Сезон: </label>
+                    <select name="season" id="">
+                        <option name="season" id="formSeasonidlito" value="літо">літо</option>
+                        <option name="season" id="formSeasonidosin" value="осінь">осінь</option>
+                        <option name="season" id="formSeasonidzuma" value="зима">зима</option>
+                        <option name="season" id="formSeasonidvesna" value="весна">весна</option>
+                    </select>
+                </p>
+                <p class="inputModal"><label>Стать: </label>
+                    <select name="sex" id="">
+                        <option name="sex" id="formSexjinka" value="жінка">жінка</option>
+                        <option name="sex" id="formSexcholovik" value="чоловік">чоловік</option>
+                        <option name="sex" id="formSexdivch" value="дівчинка">дівчинка</option>
+                        <option name="sex" id="formSexchlop" value="хлопчик">хлопчик</option>
+                    </select>
+                </p>
+                <p class="inputModal"><label for="">Назва</label>
+                    <input class="fCatReg" type="text" name="category" id="formNameprodid">
+                </p>
+                <p class="inputModal"><label>Фото url: </label><input class="formPole" type="url" name="img"
+                        id="formImgid"></p>
+                <p class="inputModal"><label>Сайт url: </label><input class="formPole" type="url" name="href"
+                        id="formHrefid"></p>
+                <p class="inputModal"><label>Опис: </label><textarea class="formPole" required name="description"
+                        id="descriptTextarea" cols="20" rows="3"></textarea></p>
+                <p class="inputModal"><label>Name: </label><input class="formPole" name="name" id="formName"></p>
+                <p class="inputModal"><label>Phone: </label>
+                    <datalist id="fh1">
+                        <option>+38(039) </option>
+                        <option>+38(050) </option>
+                        <option>+38(063) </option>
+                        <option>+38(066) </option>
+                        <option>+38(067) </option>
+                        <option>+38(068) </option>
+                        <option>+38(091) </option>
+                        <option>+38(092) </option>
+                        <option>+38(093) </option>
+                        <option>+38(094) </option>
+                        <option>+38(095) </option>
+                        <option>+38(096) </option>
+                        <option>+38(097) </option>
+                        <option>+38(098) </option>
+                        <option>+38(099) </option>
+                    </datalist>
+                    <input type="text" list="fh1" class="formPole" name="phone" id="formPhone"
+                        placeholder="+38(000)3334444" maxlength="15">
+                </p>
+                <p class="inputModal"><label>Email: </label><input class="formPole" placeholder="abc@efd.com"
+                        name="email" id="formEmail"></p>
+                <p class="inputModalButton">
+                    <button class="btnModal" id="btnModalok" disabled="disabled">Додати</button>
+                </p>
+            </form>
+            <p class="inputModalButton">
+                <button class="btnModal" id="btnModalreturn" onclick="openFormModal()">Відміна</button>
+            </p>
+
+        </div>
+    </div>
+    <script type="text/javascript" src="./script_products.js"></script>
+</body>
+
+</html>

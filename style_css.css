@@ -1,0 +1,266 @@
+body {
+    background-color: rgb(100, 197, 226);
+}
+
+.pole {
+    width: 240px;
+    height: 25px;
+    background-color: rgb(222, 228, 209);
+    font-size: 15px;
+}
+
+.sc {
+    width: max-content;
+    height: max-content;
+    margin-top: 10px;
+    background-color: rgb(115, 243, 56);
+    font-size: 18px;
+    border-color: #58585a;
+}
+
+.goods {
+    margin: 80px auto;
+    position: absolute;
+    width: 98%;
+    height: max-content;
+    background-color: rgb(231, 196, 196);
+    border: lightgreen 2px;
+}
+
+.productPlus {
+    margin: 10px auto;
+    width: 97%;
+    padding: 1px;
+    display: flex;
+    border: solid 1px;
+    align-items: center;
+}
+
+h4 {
+    margin: 5px 0;
+    padding: 0;
+}
+
+.description {
+    margin-left: 10px;
+}
+
+img {
+    width: 80px;
+    margin: 10px;
+}
+
+ul,
+li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+
+/* =====================  ACCORDION  ===================== */
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    align-content: stretch;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+
+nav {
+    position: absolute;
+    width: 220px;
+    height: min-content;
+    margin: 1px 20px 20px 280px;
+    box-shadow: 0px 0px 25px #00000070;
+    z-index: 1;
+}
+
+.menuProd .accordion {
+    font-size: 16px;
+    border-bottom: 1px solid #b0bdc8;
+    position: relative;
+    height: min-content;
+    background: #3e5165;
+    padding: 10px 8px;
+    color: white;
+    border-radius: 4px;
+}
+
+.accordion:hover {
+    color: #14d580;
+    background-color: #324252;
+    cursor: pointer;
+}
+
+/* -------------- */
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.accordion.show:before {
+    content: "\262F";
+    position: absolute;
+    right: 25px;
+    top: 11px;
+    padding: 0px 5px;
+    color: #fff;
+    animation: spin 2s linear 0s infinite;
+}
+
+
+/* ---------------- */
+
+.accordion.show:after {
+    content: "\2259";
+    position: absolute;
+    right: 6px;
+    top: 12px;
+    padding: 0px 5px;
+    color: #e1e1e1;
+    font-size: 16px;
+}
+
+.accordion:after {
+    content: "\225A";
+    position: absolute;
+    right: 6px;
+    top: 12px;
+    padding: 0px 5px;
+    color: #00ff00;
+    font-size: 16px;
+}
+
+/* --------------------------------------------------- */
+
+.content {
+    margin-top: 15px;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: rgba(255, 255, 255, 0.612);
+    font-size: 18px;
+    padding: 7px 7px 7px 7px;
+    height: max-content;
+    background-color: #23313f;
+    box-shadow: 0px 0px 1px #00000070;
+    display: none;
+}
+
+.menuProd .accordion.show .content {
+    display: block;
+}
+
+.content>li:hover {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.612);
+    background-color: #3e5165;
+    padding-left: 10px;
+    color: #00ff00;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* --------------------------------------------------- */
+
+.select {
+    background-color: #ffe1e1;
+}
+
+/* --------------------  Form modal ------------------ */
+
+.boxModal {
+    padding: 15px;
+    width: max-content;
+    height: auto;
+    background-color: #607d8b;
+    border: solid 2px #3dd0e0;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    z-index: 5;
+    position: relative;
+    margin: 0 auto;
+    display: none;
+}
+
+form {
+    width: fit-content;
+}
+
+.inputModal {
+    text-align-last: justify;
+}
+
+.radioModal {
+    padding: 5px;
+    margin: 0;
+}
+
+p {
+    -webkit-text-stroke-width: thin;
+}
+
+.inputModalButton {
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+textarea {
+    max-width: 300px;
+    max-height: 220px;
+    min-width: 165px;
+    min-height: 80px;
+    text-align-last: left;
+}
+
+.addStart {
+    /* margin-top: 2px; */
+    margin-left: 275px;
+    width: min-content;
+    height: min-content;
+    background-color: #14d580;
+    border-radius: 5px;
+}
+
+.open {
+    display: block;
+}
+
+/* -------- valid inpet form --------- */
+
+.input {
+    text-align-last: left;
+}
+
+input:invalid {
+    border: 2px dashed red;
+    text-align-last: left;
+}
+
+input:invalid:required {
+    background-image: linear-gradient(to right, pink, lightgreen);
+    text-align-last: left;
+}
+
+input:valid {
+    border: 1px solid black;
+    text-align-last: left;
+}
+
+.formInputRed {
+    background-image: linear-gradient(to right, rgb(238, 199, 205), rgb(178, 238, 178));
+    border: 6px solid red;
+}
