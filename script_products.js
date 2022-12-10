@@ -9,7 +9,7 @@ let products = null;
 const apiArray = async() => {
     try {
 //         const response = await fetch('http://localhost:3000/products');
-                const response = await fetch('https://dmytropv.github.io/Sorting-products-on-the-page-Form-for-adding-products/');
+                const response = await fetch('https://dmytropv.github.io/Sorting-products-on-the-page-Form-for-adding-products/db.json/products');
         
         if (response.ok) {
             const get_list = await response.json();
